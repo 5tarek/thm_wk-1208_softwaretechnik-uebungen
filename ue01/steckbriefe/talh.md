@@ -11,3 +11,4 @@ Ich habe nur wenig Erfahrung mit Softwareentwicklung und möchte lernen, wie man
 ## Das erwarte ich von der Veranstaltung
 
 Ich möchte die Grundlagen der Softwareentwicklung kennenlernen und lernen.
+Diese Änderung wurde direkt im Browser auf GitHub vorgenommen.
