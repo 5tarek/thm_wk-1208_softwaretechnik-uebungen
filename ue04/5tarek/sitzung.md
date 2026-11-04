@@ -41,7 +41,7 @@ ue04-5tarek
 }
 ```
 
-Tarek Al Hahbare
+[Name entfernt]
 [private E-Mail entfernt]
 
 
@@ -69,7 +69,7 @@ _Thinking:_
 
 Der Branch ist `ue04-5tarek`. Der Benutzername lautet `5tarek`. Laut AGENTS.md steht der Benutzername im Branchnamen: `ue04-5tarek`. Also Benutzername: `5tarek`.
 
-Aber warte, der git user.name ist "Tarek Al Hahbare". AGENTS.md sagt, der Benutzername ist der GitHub-Benutzername in Kleinbuchstaben. Im Branchnamen steht `ue04-5tarek`. Also ist der GitHub-Benutzername `5tarek`.
+Aber warte, der git user.name ist "[Name entfernt]". AGENTS.md sagt, der Benutzername ist der GitHub-Benutzername in Kleinbuchstaben. Im Branchnamen steht `ue04-5tarek`. Also ist der GitHub-Benutzername `5tarek`.
 
 Jetzt muss ich prüfen, welche Verzeichnisse dem Benutzer gehören. Laut AGENTS.md: "Ältere Verzeichnisse können stattdessen ein früher gewähltes Kürzel tragen; sie gehören trotzdem der Person." Also muss ich nach Verzeichnissen suchen, die zu dieser Person gehören.
 
@@ -858,7 +858,7 @@ In ue01/steckbriefe gibt es keine Datei mit talh oder 5tarek. Es gibt `talh.md`?
 
 Lass mich prüfen, ob es eine `talh.md` oder `5tarek.md` in ue01/steckbriefe gibt. Aus der Liste oben: kein `talh.md` und kein `5tarek.md`. Also wahrscheinlich keine ue01-Dateien von diesem Benutzer.
 
-Aber warte, der git user.name ist "Tarek Al Hahbare" und der Branch ue04-5tarek. Also Benutzername 5tarek. Die Frage ist, ob es in ue01 eine Datei von ihm gibt. Lass mich grep nach "tarek" oder "Tarek" in ue01.
+Aber warte, der git user.name ist "[Name entfernt]" und der Branch ue04-5tarek. Also Benutzername 5tarek. Die Frage ist, ob es in ue01 eine Datei von ihm gibt. Lass mich grep nach "tarek" oder "Tarek" in ue01.
 
 **Tool: shell**
 
